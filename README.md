@@ -1,4 +1,4 @@
-Learning Objectives [# CSC225-Summer-2022 3 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-392)
+Learning Objectives [# CSC225-Summer-2022 3 Credits Digital Logic](https://pawar1550.wixsite.com/claflin-courses/copy-of-csci-hnth-392)
 
 [Youtube Teaching Channel:](https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV)
 

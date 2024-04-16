@@ -5,3 +5,4 @@ Intro to Digital Logic Design and Lab (Emphasis on digital computer hardware an
 [Digital Logic:](https://youtu.be/1OHKkJdxsBA)
 
 [Github:](https://github.com/spawar2/CSC225-Summer-2022)
+**Undergraduate Class & Lab

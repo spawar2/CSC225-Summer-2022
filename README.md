@@ -7,3 +7,4 @@ Intro to Digital Logic Design and Lab (Emphasis on digital computer hardware an
 [Github:](https://github.com/spawar2/CSC225-Summer-2022)
 **Undergraduate Class & Lab https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/
+Claflin University, Orangeburg, South Carolina, USA

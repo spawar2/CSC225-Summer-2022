@@ -12,3 +12,4 @@ Binary Addition.png
 Binary Subtraction.png
 Complement.png
 ![download](https://github.com/user-attachments/assets/c1ef6652-18ba-4ae8-9dba-991b83efde45)
+(Compound noun titles)
